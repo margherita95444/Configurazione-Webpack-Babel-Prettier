@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "all": "^0.0.0"
+  },
+  "name": "esgit-config.-webpack-babel-prettier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/margherita95444/EsGit-Config.-Webpack-Babel-Prettier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/margherita95444/EsGit-Config.-Webpack-Babel-Prettier/issues"
+  },
+  "homepage": "https://github.com/margherita95444/EsGit-Config.-Webpack-Babel-Prettier#readme",
+  "description": ""
+}
